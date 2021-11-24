@@ -1,0 +1,5 @@
+# Created by pytest automatically.
+*
+main.py
+**/.pytest_cache
+**/test_weather_api/.pytest_cache
